@@ -1,6 +1,7 @@
-
 {
   "name": "generativeCanvas",
-  "main": "index.html"
-  
+  "main": "index.html",
+  "dependencies": {
+    "canvas": "^1.6.8"
+  }
 }
